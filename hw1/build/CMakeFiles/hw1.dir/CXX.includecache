@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zdy/hw_space/DigitalGeometryProcessHW/hw1/main.cpp
+eigen3/Eigen/Eigen
+-
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+iterator
+-
+unordered_map
+-
+

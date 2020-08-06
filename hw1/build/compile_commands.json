@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zdy/hw_space/DigitalGeometryProcessHW/hw1/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/hw1.dir/main.cpp.o -c /home/zdy/hw_space/DigitalGeometryProcessHW/hw1/main.cpp",
+  "file": "/home/zdy/hw_space/DigitalGeometryProcessHW/hw1/main.cpp"
+}
+]
